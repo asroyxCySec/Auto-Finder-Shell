@@ -81,3 +81,15 @@ b) Integrasi dengan alat eksploitasi otomatis.
 
 
 c) Pencatatan hasil dalam format laporan.
+
+
+
+
+# Support This Project
+
+If you would like to support this project, you can make a donation through the following platforms:
+
+- **[Ko-fi](https://ko-fi.com/AsroyxCySec)**
+- **[Saweria](https://saweria.co/AsroyxCySec)**
+
+Thank you for your support! 🙏
